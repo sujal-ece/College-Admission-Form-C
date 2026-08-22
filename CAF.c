@@ -1070,8 +1070,8 @@ int main()
 
         printf("\n");
         printf("We are very sorry that we can't welcome you.\n"); 
-        printf("But if you think there is some disperency from our Side, Feel free to contact our Halp desk '+91-79-61755500' at office time from Monday to Saturday 9:00 AM to 4:30 PM");
-        printf("You can also connect to a councellor from our University Counsellor Team for further guidance and future paths.");
+        printf("But if you think there is some discrepancy from our Side, Feel free to contact our Help desk '+91-79-61755500' during office timeing from 9:00 AM to 4:30 PM on Monday to Saturday. \n");
+        printf("You can also connect to a counsellor from our University Counsellor Team for further guidance and future paths.");
     }
     return 0;
 }
