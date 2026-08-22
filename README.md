@@ -45,6 +45,8 @@ College-Admission-Form-C/
 ├── CAF.c
 └── CAF.exe
 
+```
+
 ## Purpose
 
 This project was created to apply fundamental C programming concepts to a larger practical program rather than isolated programming exercises.
@@ -52,3 +54,23 @@ This project was created to apply fundamental C programming concepts to a larger
 ## Author
 
 **Sujal — ECE Student**
+
+## How to Run
+
+### Using the executable
+
+Download `CAF.exe` from this repository and run it on a Windows system.
+
+### Using the source code
+
+Compile `CAF.c` using a C compiler such as GCC:
+
+```bash
+gcc CAF.c -o CAF
+```
+
+Then run the program:
+
+```powershell
+.\CAF.exe
+```
