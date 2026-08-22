@@ -731,6 +731,12 @@ int main()
         }
     }
 
+    else{
+        printf("Sorry! We Only offer Engineering or Managment field related Courses.");
+        
+        return 0;
+    }
+
     printf("----------------------------------------------------------------------------------------\n");
 
     printf("\n");
@@ -1073,5 +1079,9 @@ int main()
         printf("But if you think there is some discrepancy from our Side, Feel free to contact our Help desk '+91-79-61755500' during office timeing from 9:00 AM to 4:30 PM on Monday to Saturday. \n");
         printf("You can also connect to a counsellor from our University Counsellor Team for further guidance and future paths.");
     }
+
+    printf("\nPress Enter to Exit...");
+    getchar();
+
     return 0;
 }
